@@ -1,0 +1,6 @@
+{
+    "type": "video",
+    "file": "Nome do arquivo, deve estar presente na pasta media",
+    "caption": "Opicional, texto que vai junto com o video",
+    "delay": 1
+}

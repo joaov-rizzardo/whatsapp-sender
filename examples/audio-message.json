@@ -1,0 +1,5 @@
+{
+    "type": "audio",
+    "file": "Nome do arquivo, deve estar presente na pasta media",
+    "delay": 1
+}
