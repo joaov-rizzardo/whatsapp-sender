@@ -1,6 +1,9 @@
 {
-    "type": "image",
-    "file": "Nome do arquivo, deve estar presente na pasta media",
-    "caption": "Opicional, texto que vai junto com a imagem",
-    "delay": 1
+  "type": "image",
+  "file": "Nome do arquivo, deve estar presente na pasta media",
+  "caption": "Opicional, texto que vai junto com a imagem",
+  "delay": {
+    "min": 2,
+    "max": 5
+  }
 }

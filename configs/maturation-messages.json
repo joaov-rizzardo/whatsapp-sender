@@ -1,0 +1,123 @@
+[
+  { "type": "text", "text": "Oi! Como você está?" },
+  { "type": "text", "text": "Bom dia! Espero que seu dia seja incrível." },
+  { "type": "text", "text": "E aí, tudo bem contigo?" },
+  { "type": "text", "text": "Que alegria falar contigo! 😊" },
+  { "type": "text", "text": "Opa, como vão as coisas do teu lado?" },
+  { "type": "text", "text": "Ei, já tomou café hoje?" },
+  { "type": "text", "text": "Boa tarde! Como foi teu dia?" },
+  { "type": "text", "text": "Saudades! Vamos marcar algo em breve?" },
+  { "type": "text", "text": "Oi, me conta as novidades da tua vida!" },
+  { "type": "text", "text": "E aí, qual a boa do momento?" },
+  { "type": "text", "text": "Bom dia! Espero que tenha uma semana incrível!" },
+  { "type": "text", "text": "Que tal um café virtual?" },
+  { "type": "text", "text": "Boa noite! Dorme bem e sonhe alto." },
+  { "type": "text", "text": "E aí, já fez alguma coisa legal hoje?" },
+  { "type": "text", "text": "Oi, como está sendo o teu dia?" },
+  { "type": "text", "text": "Que alegria te encontrar por aqui!" },
+  { "type": "text", "text": "Boa tarde! Como foi tua reunião?" },
+  { "type": "text", "text": "Sabe aquela novidade? Conta pra mim!" },
+  { "type": "text", "text": "E aí, já planejou o fim de semana?" },
+  { "type": "text", "text": "Oi, como estão as coisas por aí?" },
+  { "type": "text", "text": "Bom dia! Hoje é um dia especial para ser feliz." },
+  { "type": "text", "text": "Ei, precisamos marcar um encontro em breve!" },
+  {
+    "type": "text",
+    "text": "Boa noite! Descanse bem e tenha sonhos incríveis."
+  },
+  { "type": "text", "text": "E aí, já pensou nos planos para o próximo mês?" },
+  { "type": "text", "text": "Oi, como foi teu final de semana?" },
+  {
+    "type": "text",
+    "text": "Bom dia! Que o dia seja leve e cheio de sorrisos."
+  },
+  { "type": "text", "text": "E aí, qual é a programação para hoje?" },
+  { "type": "text", "text": "Que saudades! Quando podemos nos encontrar?" },
+  { "type": "text", "text": "Boa tarde! Como foi teu almoço?" },
+  { "type": "text", "text": "Ei, estou pensando em você. Como vai tudo?" },
+  {
+    "type": "text",
+    "text": "Oi, que tal uma pausa para um café e uma boa conversa?"
+  },
+  { "type": "text", "text": "Bom dia! Que o dia seja repleto de realizações." },
+  {
+    "type": "text",
+    "text": "E aí, alguma novidade emocionante para compartilhar?"
+  },
+  { "type": "text", "text": "Boa noite! Durma bem e recarregue as energias." },
+  { "type": "text", "text": "Oi, como está sendo a tua semana até agora?" },
+  { "type": "text", "text": "Bom dia! Que hoje seja melhor que ontem." },
+  {
+    "type": "text",
+    "text": "E aí, já fez alguma coisa que te deixou feliz hoje?"
+  },
+  {
+    "type": "text",
+    "text": "Oi, vamos marcar um momento para colocar o papo em dia?"
+  },
+  { "type": "text", "text": "Boa tarde! Como está sendo tua tarde?" },
+  { "type": "text", "text": "Que alegria encontrar você por aqui novamente!" },
+  {
+    "type": "text",
+    "text": "E aí, quais são os planos para o próximo feriado?"
+  },
+  { "type": "text", "text": "Oi, como foi o teu dia até agora?" },
+  {
+    "type": "text",
+    "text": "Bom dia! Desejo um dia cheio de conquistas para você."
+  },
+  {
+    "type": "text",
+    "text": "E aí, alguma meta que você quer alcançar essa semana?"
+  },
+  {
+    "type": "text",
+    "text": "Boa noite! Que os sonhos sejam leves e inspiradores."
+  },
+  {
+    "type": "text",
+    "text": "Oi, estou aqui caso precise de alguma coisa. Como você está?"
+  },
+  {
+    "type": "audio",
+    "file": "maturation/WhatsApp Ptt 2024-02-03 at 14.18.20.ogg"
+  },
+  {
+    "type": "audio",
+    "file": "maturation/WhatsApp Ptt 2024-02-03 at 14.18.44.ogg"
+  },
+  {
+    "type": "audio",
+    "file": "maturation/WhatsApp Ptt 2024-02-03 at 14.19.07.ogg"
+  },
+  {
+    "type": "audio",
+    "file": "maturation/WhatsApp Ptt 2024-02-03 at 14.19.24.ogg"
+  },
+  {
+    "type": "image",
+    "file": "maturation/download.jpeg"
+  },
+  {
+    "type": "image",
+    "file": "maturation/WhatsApp Image 2024-02-03 at 14.22.10.jpeg",
+    "caption": "Uma linda fazenda"
+  },
+  {
+    "type": "image",
+    "file": "maturation/WhatsApp Image 2024-02-03 at 14.22.11 (1).jpeg"
+  },
+  {
+    "type": "image",
+    "file": "maturation/WhatsApp Image 2024-02-03 at 14.22.11.jpeg"
+  },
+  {
+    "type": "image",
+    "file": "maturation/WhatsApp Image 2024-02-03 at 14.25.30.jpeg"
+  },
+  {
+    "type": "video",
+    "file": "maturation/WhatsApp Video 2024-02-03 at 14.36.31.mp4",
+    "caption": "Um lindo teu"
+  }
+]

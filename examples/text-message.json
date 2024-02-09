@@ -1,5 +1,8 @@
 {
-    "type": "text",
-    "text": "Texto da mensagem",
-    "delay": 1
+  "type": "text",
+  "text": ["Texto da mensagem"],
+  "delay": {
+    "min": 2,
+    "max": 5
+  }
 }

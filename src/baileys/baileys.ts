@@ -36,7 +36,6 @@ export async function connect(sessionId: string = uuid()) {
   const conn = makeWASocket({ auth: state, printQRInTerminal: true });
   sessions.set(sessionId, conn);
   updateSessionsStore();
-  conn;
   conn.ev.on("creds.update", saveCreds);
   conn.ev.on(
     "connection.update",

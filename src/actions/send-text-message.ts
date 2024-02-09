@@ -8,5 +8,6 @@ export function sendTextMessage(
   const socket = getSocket(sessionId);
   socket.sendMessage(jid, {
     text: message,
+    linkPreview: null,
   });
 }

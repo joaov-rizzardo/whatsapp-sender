@@ -9,7 +9,7 @@ export class InstancesRotation {
     if (instances.length <= 0) {
       throw new NoInstancesConnectedError();
     }
-    if (this.currentIndex > instances.length) {
+    if (this.currentIndex > instances.length - 1) {
       this.currentIndex = 0;
     }
     const currentInstance = instances[this.currentIndex];

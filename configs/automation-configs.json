@@ -1,0 +1,14 @@
+{
+  "messages_delay": {
+    "min": 60,
+    "max": 90
+  },
+  "messages_pause_quantity": {
+    "min": 10,
+    "max": 15
+  },
+  "messages_pause_delay": {
+    "min": 180,
+    "max": 360
+  }
+}

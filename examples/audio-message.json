@@ -1,5 +1,8 @@
 {
-    "type": "audio",
-    "file": "Nome do arquivo, deve estar presente na pasta media",
-    "delay": 1
+  "type": "audio",
+  "file": "Nome do arquivo, deve estar presente na pasta media",
+  "delay": {
+    "min": 2,
+    "max": 5
+  }
 }
